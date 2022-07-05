@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34a465b3.css",
-    "main.js": "/static/js/main.e13dca44.js",
-    "static/js/787.998b4c01.chunk.js": "/static/js/787.998b4c01.chunk.js",
-    "index.html": "/index.html",
-    "main.34a465b3.css.map": "/static/css/main.34a465b3.css.map",
-    "main.e13dca44.js.map": "/static/js/main.e13dca44.js.map",
-    "787.998b4c01.chunk.js.map": "/static/js/787.998b4c01.chunk.js.map"
+    "main.css": "/Taza-khabar/static/css/main.34a465b3.css",
+    "main.js": "/Taza-khabar/static/js/main.cbe3c7e1.js",
+    "static/js/787.998b4c01.chunk.js": "/Taza-khabar/static/js/787.998b4c01.chunk.js",
+    "index.html": "/Taza-khabar/index.html",
+    "main.34a465b3.css.map": "/Taza-khabar/static/css/main.34a465b3.css.map",
+    "main.cbe3c7e1.js.map": "/Taza-khabar/static/js/main.cbe3c7e1.js.map",
+    "787.998b4c01.chunk.js.map": "/Taza-khabar/static/js/787.998b4c01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34a465b3.css",
-    "static/js/main.e13dca44.js"
+    "static/js/main.cbe3c7e1.js"
   ]
 }
